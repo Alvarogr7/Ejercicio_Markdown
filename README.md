@@ -3,11 +3,11 @@
 >
 >>1. **`El titulo de la pelicula`**.
 >>
->>2. **El genero de la pelicula**.
+>>2. **`El genero de la pelicula`**.
 >>
->>3. **Año de lanzamiento**.
+>>3. **`Año de lanzamiento`**.
 >>
->>4. **Director/es de la pelicula**.
+>>4. **`Director/es de la pelicula`**.
 >
 >---
 >
