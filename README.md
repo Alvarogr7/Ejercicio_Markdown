@@ -1,3 +1,4 @@
+>---
 ># Algoritmo que ordena en Bibliotecas Peliculas por Titulos y Generos
 > Lo primero que te pedira el algoritmo:
 >
