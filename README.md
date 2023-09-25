@@ -16,3 +16,6 @@
 >
 >## Si pulsas la imagen podras acceder a un link a una pagina: 
 >> <a href="https://www.lasmejorespeliculasdelahistoriadelcine.com/p/listado-por-generos.html?m=1"><img src="./imagenes/zorro.jpg" height="140" width="130"/></a>
+>
+> Si no te funciona el link de la imagen intentalo con esta:
+> [Pulsa aqui](https://www.lasmejorespeliculasdelahistoriadelcine.com/p/listado-por-generos.html?m=1)
