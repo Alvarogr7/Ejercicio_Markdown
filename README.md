@@ -12,6 +12,7 @@
 >---
 >
 >## 2. Ejemplo de una tabla que se crearia:
+> Se ordenaria Alfabeticamente por Titulo y una vez ordenado, se ordenara por el año
 >> |***Orden***|***Titulo***|***Genero***|***Año***|***Director***|
 >> |:----|:-----|:-----|:--|:-------|
 >> |A    |Acorralado|Accion|1982|Ted Kotcheff|
