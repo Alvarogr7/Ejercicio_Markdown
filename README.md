@@ -1,8 +1,12 @@
 ># Algoritmo que ordena en Bibliotecas Peliculas por Titulos y Generos
 > Lo primero que te pedira el algoritmo:
+>
 >1 **El titulo de la pelicula**.
+>
 >2 **El genero de la pelicula**.
+>
 >3 **Año de lanzamiento**.
+>
 >4 **Director/es de la pelicula**.
 >  
 >## Ejemplo de una tabla que se crearia:
