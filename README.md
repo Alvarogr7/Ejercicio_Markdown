@@ -8,7 +8,9 @@
 >3. **Año de lanzamiento**.
 >
 >4. **Director/es de la pelicula**.
->  
+>
+>---
+>
 >## Ejemplo de una tabla que se crearia:
 >> |***Orden***|***Titulo***|***Genero***|***Año***|***Director***|
 >> |:----|:-----|:-----|:--|:-------|
@@ -17,6 +19,7 @@
 >> |S    |Schindler's List|Biografia|1993|Steven Spielberg|
 >> |     |Saw|Terror|2004|Darren Lynn Bousman,David Hackl,...|   
 >
+>---
 >
 >## Si pulsas la imagen podras acceder a un link a una pagina: 
 >> <a href="https://www.lasmejorespeliculasdelahistoriadelcine.com/p/listado-por-generos.html?m=1"><img src="./imagenes/zorro.jpg" height="170" width="120"/></a>
