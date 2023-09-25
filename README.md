@@ -14,7 +14,6 @@
 >> |     |Saw|Terror|2004|Darren Lynn Bousman,David Hackl,...|   
 >
 >
->## Algunas Imagenes que se encuentran en nuestra Biblioteca:
->> |Avatar|Schindler's List|SAW|
->> |:-----|:---------------|:--|
->> |
+>## Imagen del Logo de La biblioteca
+>> 
+>> 
