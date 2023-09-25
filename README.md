@@ -6,7 +6,7 @@
 >- **Director/es de la pelicula**.
 >  
 >  Ejemplo de una tabla que se crearia:
->> |Orden|Titulo|Genero|Año|Director|
+>> |***Orden***|***Titulo***|***Genero***|***Año***|***Director***|
 >> |:----|:-----|:-----|:--|:-------|
 >> |A    |Avatar |C.Ficcion| 2009|James Cameron|
 >> |F    |Forrest Gump|Drama|1994|Robert Zemeckis|
