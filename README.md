@@ -12,7 +12,7 @@
 >---
 >
 >## 2. Ejemplo de una tabla que se crearia:
-> Se ordenaria Alfabeticamente por **Titulo** y una vez ordenado, se ordenara por el **Año**
+> Se ordenaria Alfabeticamente por ***Titulo*** y una vez ordenado, se ordenara por el ***Año***
 >> |***Orden***|***Titulo***|***Genero***|***Año***|***Director***|
 >> |:----|:-----|:-----|:--|:-------|
 >> |A    |Acorralado|Accion|1982|Ted Kotcheff|
