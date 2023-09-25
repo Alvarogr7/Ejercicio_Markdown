@@ -15,5 +15,5 @@
 >
 >
 >## Imagen del Logo de La biblioteca
->> 
+>> ![imagen](./imagenes/zorro.jpg)
 >> 
