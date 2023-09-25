@@ -1,9 +1,9 @@
 ># Algoritmo que ordena en Bibliotecas Peliculas por Titulos y Generos
 > Lo primero que te pedira el algoritmo:
->- **El titulo de la pelicula**.
->- **El genero de la pelicula**.
->- **Año de lanzamiento**.
->- **Director/es de la pelicula**.
+>1 **El titulo de la pelicula**.
+>2 **El genero de la pelicula**.
+>3 **Año de lanzamiento**.
+>4 **Director/es de la pelicula**.
 >  
 >## Ejemplo de una tabla que se crearia:
 >> |***Orden***|***Titulo***|***Genero***|***Año***|***Director***|
@@ -14,6 +14,5 @@
 >> |     |Saw|Terror|2004|Darren Lynn Bousman,David Hackl,...|   
 >
 >
->## Imagen del Logo de La biblioteca
->> ![imagen](./imagenes/zorro.jpg)
->> 
+>## Si pulsas la imagen podras acceder a un link a una pagina: 
+>> <a href="https://www.lasmejorespeliculasdelahistoriadelcine.com/p/listado-por-generos.html?m=1"><img src="./imagenes/zorro.jpg" height="140" width="130"></a>
